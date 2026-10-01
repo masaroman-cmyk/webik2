@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+data/*.sqlite*
+data/cache/
+.env
+.dev.vars
+.wrangler/

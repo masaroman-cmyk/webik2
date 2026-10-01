@@ -1,0 +1,12 @@
+{
+  "products": 37,
+  "categories": 117,
+  "product_category_links": 37,
+  "pages": {
+    "done": 13,
+    "pending": 105
+  },
+  "latest_run": "incomplete",
+  "checked_at": "2026-10-01T19:12:26.249772+00:00",
+  "scope": "Partial import; first product group contains 37 products. Full IVECO catalog is not imported."
+}
